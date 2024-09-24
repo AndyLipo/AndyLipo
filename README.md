@@ -1,5 +1,5 @@
 # 💫 Sobre Mi:
-🔭 I’m currently working on a car sales with ReactJs <br>👯 I’m looking to collaborate on proyects with React and TypeScript<br>🌱 I’m currently learning TypeScript <br>⚡ Fun fact I started learning because I taught PO to school kids
+🔭 I’m currently working on a MVP Development with ReactJs <br>👯 I’m looking to collaborate on proyects with React and TypeScript<br>🌱 I’m currently learning TypeScript <br>⚡ Fun fact I started learning because I taught PO to school kids
 
 
 ## 🌐 Socials:
